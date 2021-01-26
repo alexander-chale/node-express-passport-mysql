@@ -21,3 +21,6 @@ If you would like to download the code and try it for yourself:
 
 
 Licence: 1
+
+Nota de Alexander Chale: con los cambios en el archivo config/passport.js
+comentando connection.connect(); y connection.end(); para que esta aplicación pudiera funcionar correctamente y no de error fatal.
